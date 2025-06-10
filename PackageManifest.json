@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "HKV8ND7hFZTPBfgjCY7NF3",
+    "description": "这是一个****组件库",
+    "name": "Achievement",
+    "author": "author",
+    "latestVersion": "0.0.1",
+    "versionList": [
+      "0.0.1"
+    ]
+  }
+]
