@@ -1,0 +1,9 @@
+{
+  "name": "com.visionstudio.newpackage",
+  "displayName": "newpackage",
+  "version": "0.0.1",
+  "unity": "2022.3",
+  "description": "This is a new package.",
+  "keywords": [],
+  "dependencies": {}
+}
