@@ -1,9 +1,5 @@
 [
   {
-    "name": "com.visionstudio.newpackage",
-    "gitUrl": "https://github.com/Devinysy/TestCommit.git"
-  },
-  {
     "name": "com.visionstudio.activityfight",
     "gitUrl": "https://github.com/Devinysy/ActivityPackage.git"
   }
